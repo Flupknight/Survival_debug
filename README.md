@@ -1,2 +1,2 @@
-# Survival_debug
+# Survival debug
 A debug stick for survival.
